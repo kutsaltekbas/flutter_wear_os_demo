@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816919015667",
+    "project_id": "wear-app-test",
+    "storage_bucket": "wear-app-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816919015667:android:d3df8b6970bdd9b6ad4786",
+        "android_client_info": {
+          "package_name": "com.example.flutter_wear_os_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNb4yBvmJkQAg2zrpvVyOP1JLmHyvyMEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
